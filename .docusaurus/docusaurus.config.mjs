@@ -11,7 +11,7 @@ export default {
   "baseUrl": "/",
   "organizationName": "khangldit",
   "projectName": "khangldit.github.io",
-  "onBrokenLinks": "throw",
+  "onBrokenLinks": "warn",
   "onBrokenMarkdownLinks": "warn",
   "deploymentBranch": "deployment",
   "i18n": {

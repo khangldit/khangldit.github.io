@@ -1,0 +1,1204 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "loadedVersions": [
+        {
+          "versionName": "current",
+          "label": "Next",
+          "banner": null,
+          "badge": false,
+          "noIndex": false,
+          "className": "docs-version-current",
+          "path": "/docs",
+          "tagsPath": "/docs/tags",
+          "isLast": true,
+          "routePriority": -1,
+          "sidebarFilePath": "/Users/khangld/Tanca/khangldit.github.io/sidebars.js",
+          "contentPath": "/Users/khangld/Tanca/khangldit.github.io/docs",
+          "contentPathLocalized": "/Users/khangld/Tanca/khangldit.github.io/i18n/en/docusaurus-plugin-content-docs/current",
+          "docs": [
+            {
+              "unversionedId": "front-end",
+              "id": "front-end",
+              "title": "Getting Started",
+              "description": "Let's discover Docusaurus in less than 5 minutes.",
+              "source": "@site/docs/front-end.md",
+              "sourceDirName": ".",
+              "slug": "/front-end",
+              "permalink": "/docs/front-end",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_position": 1
+              },
+              "sidebar": "tutorialSidebar",
+              "next": {
+                "title": "Front End",
+                "permalink": "/docs/category/front-end"
+              }
+            },
+            {
+              "unversionedId": "front-end/web-admin/buttons",
+              "id": "front-end/web-admin/buttons",
+              "title": "Buttons",
+              "description": "Một số quy tắc khi sử dụng button trên Tanca Admin",
+              "source": "@site/docs/front-end/web-admin/buttons.md",
+              "sourceDirName": "front-end/web-admin",
+              "slug": "/front-end/web-admin/buttons",
+              "permalink": "/docs/front-end/web-admin/buttons",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 3,
+              "frontMatter": {
+                "sidebar_position": 3,
+                "output": "html_document"
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Them Color",
+                "permalink": "/docs/front-end/web-admin/them-color"
+              },
+              "next": {
+                "title": "Components",
+                "permalink": "/docs/category/components"
+              }
+            },
+            {
+              "unversionedId": "front-end/web-admin/components/button-with-dropdown",
+              "id": "front-end/web-admin/components/button-with-dropdown",
+              "title": "ButtonWidthDropdown",
+              "description": "Là các thành phần nút được sử dụng nhiều ở Main buttons trong Header của mỗi Layout trang web",
+              "source": "@site/docs/front-end/web-admin/components/button-with-dropdown.md",
+              "sourceDirName": "front-end/web-admin/components",
+              "slug": "/front-end/web-admin/components/button-with-dropdown",
+              "permalink": "/docs/front-end/web-admin/components/button-with-dropdown",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_position": 1
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Components",
+                "permalink": "/docs/category/components"
+              },
+              "next": {
+                "title": "CustomInputItem (no content)",
+                "permalink": "/docs/front-end/web-admin/components/custom-input-item"
+              }
+            },
+            {
+              "unversionedId": "front-end/web-admin/components/custom-input-item",
+              "id": "front-end/web-admin/components/custom-input-item",
+              "title": "CustomInputItem (no content)",
+              "description": "",
+              "source": "@site/docs/front-end/web-admin/components/custom-input-item.md",
+              "sourceDirName": "front-end/web-admin/components",
+              "slug": "/front-end/web-admin/components/custom-input-item",
+              "permalink": "/docs/front-end/web-admin/components/custom-input-item",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_position": 1
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "ButtonWidthDropdown",
+                "permalink": "/docs/front-end/web-admin/components/button-with-dropdown"
+              },
+              "next": {
+                "title": "FilterWidet (NO content)",
+                "permalink": "/docs/front-end/web-admin/components/filter-widget"
+              }
+            },
+            {
+              "unversionedId": "front-end/web-admin/components/filter-widget",
+              "id": "front-end/web-admin/components/filter-widget",
+              "title": "FilterWidet (NO content)",
+              "description": "",
+              "source": "@site/docs/front-end/web-admin/components/filter-widget.md",
+              "sourceDirName": "front-end/web-admin/components",
+              "slug": "/front-end/web-admin/components/filter-widget",
+              "permalink": "/docs/front-end/web-admin/components/filter-widget",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_position": 1
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "CustomInputItem (no content)",
+                "permalink": "/docs/front-end/web-admin/components/custom-input-item"
+              },
+              "next": {
+                "title": "GeneralModal",
+                "permalink": "/docs/front-end/web-admin/components/general-modal"
+              }
+            },
+            {
+              "unversionedId": "front-end/web-admin/components/general-modal",
+              "id": "front-end/web-admin/components/general-modal",
+              "title": "GeneralModal",
+              "description": "Tiêu chuẩn chung của một modal áp dụng cho tất cả các modal trong trang web.",
+              "source": "@site/docs/front-end/web-admin/components/general-modal.md",
+              "sourceDirName": "front-end/web-admin/components",
+              "slug": "/front-end/web-admin/components/general-modal",
+              "permalink": "/docs/front-end/web-admin/components/general-modal",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_position": 1
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "FilterWidet (NO content)",
+                "permalink": "/docs/front-end/web-admin/components/filter-widget"
+              },
+              "next": {
+                "title": "GeneralMultigrid (NO content)",
+                "permalink": "/docs/front-end/web-admin/components/general-multigrid"
+              }
+            },
+            {
+              "unversionedId": "front-end/web-admin/components/general-multigrid",
+              "id": "front-end/web-admin/components/general-multigrid",
+              "title": "GeneralMultigrid (NO content)",
+              "description": "",
+              "source": "@site/docs/front-end/web-admin/components/general-multigrid.md",
+              "sourceDirName": "front-end/web-admin/components",
+              "slug": "/front-end/web-admin/components/general-multigrid",
+              "permalink": "/docs/front-end/web-admin/components/general-multigrid",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_position": 1
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "GeneralModal",
+                "permalink": "/docs/front-end/web-admin/components/general-modal"
+              },
+              "next": {
+                "title": "Component Creation",
+                "permalink": "/docs/front-end/web-admin/conponent-generation"
+              }
+            },
+            {
+              "unversionedId": "front-end/web-admin/conponent-generation",
+              "id": "front-end/web-admin/conponent-generation",
+              "title": "Component Creation",
+              "description": "Khi nào thì tạo ra 1 component?",
+              "source": "@site/docs/front-end/web-admin/conponent-generation.md",
+              "sourceDirName": "front-end/web-admin",
+              "slug": "/front-end/web-admin/conponent-generation",
+              "permalink": "/docs/front-end/web-admin/conponent-generation",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 3,
+              "frontMatter": {
+                "sidebar_position": 3
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "GeneralMultigrid (NO content)",
+                "permalink": "/docs/front-end/web-admin/components/general-multigrid"
+              },
+              "next": {
+                "title": "Import/Export Excel",
+                "permalink": "/docs/front-end/web-admin/import-export-excel"
+              }
+            },
+            {
+              "unversionedId": "front-end/web-admin/Functions/setThemeColor",
+              "id": "front-end/web-admin/Functions/setThemeColor",
+              "title": "setThemColor (no content)",
+              "description": "",
+              "source": "@site/docs/front-end/web-admin/Functions/setThemeColor.md",
+              "sourceDirName": "front-end/web-admin/Functions",
+              "slug": "/front-end/web-admin/Functions/setThemeColor",
+              "permalink": "/docs/front-end/web-admin/Functions/setThemeColor",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_position": 1
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Structuring (NO content)",
+                "permalink": "/docs/front-end/web-admin/structuring"
+              },
+              "next": {
+                "title": "Phần mềm Máy chấm công",
+                "permalink": "/docs/category/phần-mềm-máy-chấm-công"
+              }
+            },
+            {
+              "unversionedId": "front-end/web-admin/import-export-excel",
+              "id": "front-end/web-admin/import-export-excel",
+              "title": "Import/Export Excel",
+              "description": "Trong việc quản lí thông tin ta sẽ tiếp xúc với rất nhiều danh sách dữ liệu như Nhân viên, Ca làm, Phòng ban, Chi nhánh,... Khi dữ liệu đạt số lượng đủ nhiều thì việc xử lý từng dữ liệu một rất khó tránh khỏi việc sai xót nên nhu cầu về xử lý dữ liệu hàng loạt được sinh ra để giải quyết vấn đề này.",
+              "source": "@site/docs/front-end/web-admin/import-export-excel.md",
+              "sourceDirName": "front-end/web-admin",
+              "slug": "/front-end/web-admin/import-export-excel",
+              "permalink": "/docs/front-end/web-admin/import-export-excel",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 4,
+              "frontMatter": {
+                "sidebar_position": 4
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Component Creation",
+                "permalink": "/docs/front-end/web-admin/conponent-generation"
+              },
+              "next": {
+                "title": "Structuring (NO content)",
+                "permalink": "/docs/front-end/web-admin/structuring"
+              }
+            },
+            {
+              "unversionedId": "front-end/web-admin/Layout/layout",
+              "id": "front-end/web-admin/Layout/layout",
+              "title": "Layout",
+              "description": "Layout cơ bản cho 1 trang (page)",
+              "source": "@site/docs/front-end/web-admin/Layout/layout.md",
+              "sourceDirName": "front-end/web-admin/Layout",
+              "slug": "/front-end/web-admin/Layout/",
+              "permalink": "/docs/front-end/web-admin/Layout/",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_position": 1
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Web Admin",
+                "permalink": "/docs/category/web-admin"
+              },
+              "next": {
+                "title": "Them Color",
+                "permalink": "/docs/front-end/web-admin/them-color"
+              }
+            },
+            {
+              "unversionedId": "front-end/web-admin/structuring",
+              "id": "front-end/web-admin/structuring",
+              "title": "Structuring (NO content)",
+              "description": "Cách tạo 1 component",
+              "source": "@site/docs/front-end/web-admin/structuring.md",
+              "sourceDirName": "front-end/web-admin",
+              "slug": "/front-end/web-admin/structuring",
+              "permalink": "/docs/front-end/web-admin/structuring",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 5,
+              "frontMatter": {
+                "sidebar_position": 5
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Import/Export Excel",
+                "permalink": "/docs/front-end/web-admin/import-export-excel"
+              },
+              "next": {
+                "title": "setThemColor (no content)",
+                "permalink": "/docs/front-end/web-admin/Functions/setThemeColor"
+              }
+            },
+            {
+              "unversionedId": "front-end/web-admin/them-color",
+              "id": "front-end/web-admin/them-color",
+              "title": "Them Color",
+              "description": "Main colors",
+              "source": "@site/docs/front-end/web-admin/them-color.md",
+              "sourceDirName": "front-end/web-admin",
+              "slug": "/front-end/web-admin/them-color",
+              "permalink": "/docs/front-end/web-admin/them-color",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 2,
+              "frontMatter": {
+                "sidebar_position": 2,
+                "output": "html_document"
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Layout",
+                "permalink": "/docs/front-end/web-admin/Layout/"
+              },
+              "next": {
+                "title": "Buttons",
+                "permalink": "/docs/front-end/web-admin/buttons"
+              }
+            },
+            {
+              "unversionedId": "TancaDesktop/tanca-v1",
+              "id": "TancaDesktop/tanca-v1",
+              "title": "Tanca V1",
+              "description": "Cơ chế hoạt động",
+              "source": "@site/docs/TancaDesktop/tanca-v1.md",
+              "sourceDirName": "TancaDesktop",
+              "slug": "/TancaDesktop/tanca-v1",
+              "permalink": "/docs/TancaDesktop/tanca-v1",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "title": "Tanca V1"
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Phần mềm Máy chấm công",
+                "permalink": "/docs/category/phần-mềm-máy-chấm-công"
+              },
+              "next": {
+                "title": "Tanca V2",
+                "permalink": "/docs/TancaDesktop/tanca-v2"
+              }
+            },
+            {
+              "unversionedId": "TancaDesktop/tanca-v2",
+              "id": "TancaDesktop/tanca-v2",
+              "title": "Tanca V2",
+              "description": "Hiểu về phần mềm",
+              "source": "@site/docs/TancaDesktop/tanca-v2.md",
+              "sourceDirName": "TancaDesktop",
+              "slug": "/TancaDesktop/tanca-v2",
+              "permalink": "/docs/TancaDesktop/tanca-v2",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "title": "Tanca V2"
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Tanca V1",
+                "permalink": "/docs/TancaDesktop/tanca-v1"
+              },
+              "next": {
+                "title": "Tutorial Intro",
+                "permalink": "/docs/Tutorial/intro"
+              }
+            },
+            {
+              "unversionedId": "Tutorial/intro",
+              "id": "Tutorial/intro",
+              "title": "Tutorial Intro",
+              "description": "Let's discover Docusaurus in less than 5 minutes.",
+              "source": "@site/docs/Tutorial/intro.md",
+              "sourceDirName": "Tutorial",
+              "slug": "/Tutorial/intro",
+              "permalink": "/docs/Tutorial/intro",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_position": 1
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Tanca V2",
+                "permalink": "/docs/TancaDesktop/tanca-v2"
+              },
+              "next": {
+                "title": "Tutorial - basics",
+                "permalink": "/docs/category/tutorial---basics"
+              }
+            },
+            {
+              "unversionedId": "Tutorial/tutorial-extras/manage-docs-versions",
+              "id": "Tutorial/tutorial-extras/manage-docs-versions",
+              "title": "Manage Docs Versions",
+              "description": "Docusaurus can manage multiple versions of your docs.",
+              "source": "@site/docs/Tutorial/tutorial-extras/manage-docs-versions.md",
+              "sourceDirName": "Tutorial/tutorial-extras",
+              "slug": "/Tutorial/tutorial-extras/manage-docs-versions",
+              "permalink": "/docs/Tutorial/tutorial-extras/manage-docs-versions",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_position": 1
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Tutorial - Extras",
+                "permalink": "/docs/category/tutorial---extras"
+              },
+              "next": {
+                "title": "Translate your site",
+                "permalink": "/docs/Tutorial/tutorial-extras/translate-your-site"
+              }
+            },
+            {
+              "unversionedId": "Tutorial/tutorial-extras/translate-your-site",
+              "id": "Tutorial/tutorial-extras/translate-your-site",
+              "title": "Translate your site",
+              "description": "Let's translate docs/intro.md to French.",
+              "source": "@site/docs/Tutorial/tutorial-extras/translate-your-site.md",
+              "sourceDirName": "Tutorial/tutorial-extras",
+              "slug": "/Tutorial/tutorial-extras/translate-your-site",
+              "permalink": "/docs/Tutorial/tutorial-extras/translate-your-site",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 2,
+              "frontMatter": {
+                "sidebar_position": 2
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Manage Docs Versions",
+                "permalink": "/docs/Tutorial/tutorial-extras/manage-docs-versions"
+              }
+            },
+            {
+              "unversionedId": "Tutorial/tutorial-zasics/congratulations",
+              "id": "Tutorial/tutorial-zasics/congratulations",
+              "title": "Congratulations!",
+              "description": "You have just learned the basics of Docusaurus and made some changes to the initial template.",
+              "source": "@site/docs/Tutorial/tutorial-zasics/congratulations.md",
+              "sourceDirName": "Tutorial/tutorial-zasics",
+              "slug": "/Tutorial/tutorial-zasics/congratulations",
+              "permalink": "/docs/Tutorial/tutorial-zasics/congratulations",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 6,
+              "frontMatter": {
+                "sidebar_position": 6
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Deploy your site",
+                "permalink": "/docs/Tutorial/tutorial-zasics/deploy-your-site"
+              },
+              "next": {
+                "title": "Tutorial - Extras",
+                "permalink": "/docs/category/tutorial---extras"
+              }
+            },
+            {
+              "unversionedId": "Tutorial/tutorial-zasics/create-a-blog-post",
+              "id": "Tutorial/tutorial-zasics/create-a-blog-post",
+              "title": "Create a Blog Post",
+              "description": "Docusaurus creates a page for each blog post, but also a blog index page, a tag system, an RSS feed...",
+              "source": "@site/docs/Tutorial/tutorial-zasics/create-a-blog-post.md",
+              "sourceDirName": "Tutorial/tutorial-zasics",
+              "slug": "/Tutorial/tutorial-zasics/create-a-blog-post",
+              "permalink": "/docs/Tutorial/tutorial-zasics/create-a-blog-post",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 3,
+              "frontMatter": {
+                "sidebar_position": 3
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Create a Document",
+                "permalink": "/docs/Tutorial/tutorial-zasics/create-a-document"
+              },
+              "next": {
+                "title": "Markdown Features",
+                "permalink": "/docs/Tutorial/tutorial-zasics/markdown-features"
+              }
+            },
+            {
+              "unversionedId": "Tutorial/tutorial-zasics/create-a-document",
+              "id": "Tutorial/tutorial-zasics/create-a-document",
+              "title": "Create a Document",
+              "description": "Documents are groups of pages connected through:",
+              "source": "@site/docs/Tutorial/tutorial-zasics/create-a-document.md",
+              "sourceDirName": "Tutorial/tutorial-zasics",
+              "slug": "/Tutorial/tutorial-zasics/create-a-document",
+              "permalink": "/docs/Tutorial/tutorial-zasics/create-a-document",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 2,
+              "frontMatter": {
+                "sidebar_position": 2
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Create a Page",
+                "permalink": "/docs/Tutorial/tutorial-zasics/create-a-page"
+              },
+              "next": {
+                "title": "Create a Blog Post",
+                "permalink": "/docs/Tutorial/tutorial-zasics/create-a-blog-post"
+              }
+            },
+            {
+              "unversionedId": "Tutorial/tutorial-zasics/create-a-page",
+              "id": "Tutorial/tutorial-zasics/create-a-page",
+              "title": "Create a Page",
+              "description": "Add Markdown or React files to src/pages to create a standalone page:",
+              "source": "@site/docs/Tutorial/tutorial-zasics/create-a-page.md",
+              "sourceDirName": "Tutorial/tutorial-zasics",
+              "slug": "/Tutorial/tutorial-zasics/create-a-page",
+              "permalink": "/docs/Tutorial/tutorial-zasics/create-a-page",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_position": 1
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Tutorial - basics",
+                "permalink": "/docs/category/tutorial---basics"
+              },
+              "next": {
+                "title": "Create a Document",
+                "permalink": "/docs/Tutorial/tutorial-zasics/create-a-document"
+              }
+            },
+            {
+              "unversionedId": "Tutorial/tutorial-zasics/deploy-your-site",
+              "id": "Tutorial/tutorial-zasics/deploy-your-site",
+              "title": "Deploy your site",
+              "description": "Docusaurus is a static-site-generator (also called Jamstack).",
+              "source": "@site/docs/Tutorial/tutorial-zasics/deploy-your-site.md",
+              "sourceDirName": "Tutorial/tutorial-zasics",
+              "slug": "/Tutorial/tutorial-zasics/deploy-your-site",
+              "permalink": "/docs/Tutorial/tutorial-zasics/deploy-your-site",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 5,
+              "frontMatter": {
+                "sidebar_position": 5
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Markdown Features",
+                "permalink": "/docs/Tutorial/tutorial-zasics/markdown-features"
+              },
+              "next": {
+                "title": "Congratulations!",
+                "permalink": "/docs/Tutorial/tutorial-zasics/congratulations"
+              }
+            },
+            {
+              "unversionedId": "Tutorial/tutorial-zasics/markdown-features",
+              "id": "Tutorial/tutorial-zasics/markdown-features",
+              "title": "Markdown Features",
+              "description": "Docusaurus supports Markdown and a few additional features.",
+              "source": "@site/docs/Tutorial/tutorial-zasics/markdown-features.mdx",
+              "sourceDirName": "Tutorial/tutorial-zasics",
+              "slug": "/Tutorial/tutorial-zasics/markdown-features",
+              "permalink": "/docs/Tutorial/tutorial-zasics/markdown-features",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 4,
+              "frontMatter": {
+                "sidebar_position": 4
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Create a Blog Post",
+                "permalink": "/docs/Tutorial/tutorial-zasics/create-a-blog-post"
+              },
+              "next": {
+                "title": "Deploy your site",
+                "permalink": "/docs/Tutorial/tutorial-zasics/deploy-your-site"
+              }
+            }
+          ],
+          "drafts": [],
+          "sidebars": {
+            "tutorialSidebar": [
+              {
+                "type": "doc",
+                "id": "front-end"
+              },
+              {
+                "type": "category",
+                "label": "Front End",
+                "collapsible": true,
+                "collapsed": true,
+                "items": [
+                  {
+                    "type": "category",
+                    "label": "Web Admin",
+                    "collapsible": true,
+                    "collapsed": true,
+                    "items": [
+                      {
+                        "type": "doc",
+                        "label": "Layout",
+                        "id": "front-end/web-admin/Layout/layout"
+                      },
+                      {
+                        "type": "doc",
+                        "id": "front-end/web-admin/them-color"
+                      },
+                      {
+                        "type": "doc",
+                        "id": "front-end/web-admin/buttons"
+                      },
+                      {
+                        "type": "category",
+                        "label": "Components",
+                        "collapsible": true,
+                        "collapsed": true,
+                        "items": [
+                          {
+                            "type": "doc",
+                            "id": "front-end/web-admin/components/button-with-dropdown"
+                          },
+                          {
+                            "type": "doc",
+                            "id": "front-end/web-admin/components/custom-input-item"
+                          },
+                          {
+                            "type": "doc",
+                            "id": "front-end/web-admin/components/filter-widget"
+                          },
+                          {
+                            "type": "doc",
+                            "id": "front-end/web-admin/components/general-modal"
+                          },
+                          {
+                            "type": "doc",
+                            "id": "front-end/web-admin/components/general-multigrid"
+                          }
+                        ],
+                        "link": {
+                          "type": "generated-index",
+                          "description": "5 minutes to learn the most important Docusaurus concepts.",
+                          "slug": "/category/components",
+                          "permalink": "/docs/category/components"
+                        }
+                      },
+                      {
+                        "type": "doc",
+                        "id": "front-end/web-admin/conponent-generation"
+                      },
+                      {
+                        "type": "doc",
+                        "id": "front-end/web-admin/import-export-excel"
+                      },
+                      {
+                        "type": "doc",
+                        "id": "front-end/web-admin/structuring"
+                      },
+                      {
+                        "type": "category",
+                        "label": "Functions",
+                        "collapsible": true,
+                        "collapsed": true,
+                        "items": [
+                          {
+                            "type": "doc",
+                            "id": "front-end/web-admin/Functions/setThemeColor"
+                          }
+                        ]
+                      }
+                    ],
+                    "link": {
+                      "type": "generated-index",
+                      "description": "5 minutes to learn the most important Docusaurus concepts.",
+                      "slug": "/category/web-admin",
+                      "permalink": "/docs/category/web-admin"
+                    }
+                  }
+                ],
+                "link": {
+                  "type": "generated-index",
+                  "description": "5 minutes to learn the most important Docusaurus concepts.",
+                  "slug": "/category/front-end",
+                  "permalink": "/docs/category/front-end"
+                }
+              },
+              {
+                "type": "category",
+                "label": "Phần mềm Máy chấm công",
+                "collapsible": true,
+                "collapsed": true,
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "TancaDesktop/tanca-v1"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "TancaDesktop/tanca-v2"
+                  }
+                ],
+                "link": {
+                  "type": "generated-index",
+                  "description": "5 minutes to learn the most important Docusaurus concepts.",
+                  "slug": "/category/phần-mềm-máy-chấm-công",
+                  "permalink": "/docs/category/phần-mềm-máy-chấm-công"
+                }
+              },
+              {
+                "type": "category",
+                "label": "Tutorial",
+                "collapsible": true,
+                "collapsed": true,
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "Tutorial/intro"
+                  },
+                  {
+                    "type": "category",
+                    "label": "Tutorial - basics",
+                    "collapsible": true,
+                    "collapsed": true,
+                    "items": [
+                      {
+                        "type": "doc",
+                        "id": "Tutorial/tutorial-zasics/create-a-page"
+                      },
+                      {
+                        "type": "doc",
+                        "id": "Tutorial/tutorial-zasics/create-a-document"
+                      },
+                      {
+                        "type": "doc",
+                        "id": "Tutorial/tutorial-zasics/create-a-blog-post"
+                      },
+                      {
+                        "type": "doc",
+                        "id": "Tutorial/tutorial-zasics/markdown-features"
+                      },
+                      {
+                        "type": "doc",
+                        "id": "Tutorial/tutorial-zasics/deploy-your-site"
+                      },
+                      {
+                        "type": "doc",
+                        "id": "Tutorial/tutorial-zasics/congratulations"
+                      }
+                    ],
+                    "link": {
+                      "type": "generated-index",
+                      "description": "5 minutes to learn the most important Docusaurus concepts.",
+                      "slug": "/category/tutorial---basics",
+                      "permalink": "/docs/category/tutorial---basics"
+                    }
+                  },
+                  {
+                    "type": "category",
+                    "label": "Tutorial - Extras",
+                    "collapsible": true,
+                    "collapsed": true,
+                    "items": [
+                      {
+                        "type": "doc",
+                        "id": "Tutorial/tutorial-extras/manage-docs-versions"
+                      },
+                      {
+                        "type": "doc",
+                        "id": "Tutorial/tutorial-extras/translate-your-site"
+                      }
+                    ],
+                    "link": {
+                      "type": "generated-index",
+                      "slug": "/category/tutorial---extras",
+                      "permalink": "/docs/category/tutorial---extras"
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      ]
+    }
+  },
+  "docusaurus-plugin-content-blog": {
+    "default": {
+      "blogSidebarTitle": "Recent posts",
+      "blogPosts": [
+        {
+          "id": "welcome",
+          "metadata": {
+            "permalink": "/blog/welcome",
+            "source": "@site/blog/2021-08-26-welcome/index.md",
+            "title": "Welcome",
+            "description": "Docusaurus blogging features are powered by the blog plugin.",
+            "date": "2021-08-26T00:00:00.000Z",
+            "formattedDate": "August 26, 2021",
+            "tags": [
+              {
+                "label": "facebook",
+                "permalink": "/blog/tags/facebook"
+              },
+              {
+                "label": "hello",
+                "permalink": "/blog/tags/hello"
+              },
+              {
+                "label": "docusaurus",
+                "permalink": "/blog/tags/docusaurus"
+              }
+            ],
+            "readingTime": 0.405,
+            "hasTruncateMarker": false,
+            "authors": [
+              {
+                "name": "Sébastien Lorber",
+                "title": "Docusaurus maintainer",
+                "url": "https://sebastienlorber.com",
+                "imageURL": "https://github.com/slorber.png",
+                "key": "slorber"
+              },
+              {
+                "name": "Yangshun Tay",
+                "title": "Front End Engineer @ Facebook",
+                "url": "https://github.com/yangshun",
+                "imageURL": "https://github.com/yangshun.png",
+                "key": "yangshun"
+              }
+            ],
+            "frontMatter": {
+              "slug": "welcome",
+              "title": "Welcome",
+              "authors": [
+                "slorber",
+                "yangshun"
+              ],
+              "tags": [
+                "facebook",
+                "hello",
+                "docusaurus"
+              ]
+            },
+            "nextItem": {
+              "title": "MDX Blog Post",
+              "permalink": "/blog/mdx-blog-post"
+            }
+          },
+          "content": "[Docusaurus blogging features](https://docusaurus.io/docs/blog) are powered by the [blog plugin](https://docusaurus.io/docs/api/plugins/@docusaurus/plugin-content-blog).\n\nSimply add Markdown files (or folders) to the `blog` directory.\n\nRegular blog authors can be added to `authors.yml`.\n\nThe blog post date can be extracted from filenames, such as:\n\n- `2019-05-30-welcome.md`\n- `2019-05-30-welcome/index.md`\n\nA blog post folder can be convenient to co-locate blog post images:\n\n![Docusaurus Plushie](./docusaurus-plushie-banner.jpeg)\n\nThe blog supports tags as well!\n\n**And if you don't want a blog**: just delete this directory, and use `blog: false` in your Docusaurus config."
+        },
+        {
+          "id": "mdx-blog-post",
+          "metadata": {
+            "permalink": "/blog/mdx-blog-post",
+            "source": "@site/blog/2021-08-01-mdx-blog-post.mdx",
+            "title": "MDX Blog Post",
+            "description": "Blog posts support Docusaurus Markdown features, such as MDX.",
+            "date": "2021-08-01T00:00:00.000Z",
+            "formattedDate": "August 1, 2021",
+            "tags": [
+              {
+                "label": "docusaurus",
+                "permalink": "/blog/tags/docusaurus"
+              }
+            ],
+            "readingTime": 0.175,
+            "hasTruncateMarker": false,
+            "authors": [
+              {
+                "name": "Sébastien Lorber",
+                "title": "Docusaurus maintainer",
+                "url": "https://sebastienlorber.com",
+                "imageURL": "https://github.com/slorber.png",
+                "key": "slorber"
+              }
+            ],
+            "frontMatter": {
+              "slug": "mdx-blog-post",
+              "title": "MDX Blog Post",
+              "authors": [
+                "slorber"
+              ],
+              "tags": [
+                "docusaurus"
+              ]
+            },
+            "prevItem": {
+              "title": "Welcome",
+              "permalink": "/blog/welcome"
+            },
+            "nextItem": {
+              "title": "Long Blog Post",
+              "permalink": "/blog/long-blog-post"
+            }
+          },
+          "content": "Blog posts support [Docusaurus Markdown features](https://docusaurus.io/docs/markdown-features), such as [MDX](https://mdxjs.com/).\n\n:::tip\n\nUse the power of React to create interactive blog posts.\n\n```js\n<button onClick={() => alert('button clicked!')}>Click me!</button>\n```\n\n<button onClick={() => alert('button clicked!')}>Click me!</button>\n\n:::"
+        },
+        {
+          "id": "long-blog-post",
+          "metadata": {
+            "permalink": "/blog/long-blog-post",
+            "source": "@site/blog/2019-05-29-long-blog-post.md",
+            "title": "Long Blog Post",
+            "description": "This is the summary of a very long blog post,",
+            "date": "2019-05-29T00:00:00.000Z",
+            "formattedDate": "May 29, 2019",
+            "tags": [
+              {
+                "label": "hello",
+                "permalink": "/blog/tags/hello"
+              },
+              {
+                "label": "docusaurus",
+                "permalink": "/blog/tags/docusaurus"
+              }
+            ],
+            "readingTime": 2.05,
+            "hasTruncateMarker": true,
+            "authors": [
+              {
+                "name": "Endilie Yacop Sucipto",
+                "title": "Maintainer of Docusaurus",
+                "url": "https://github.com/endiliey",
+                "imageURL": "https://github.com/endiliey.png",
+                "key": "endi"
+              }
+            ],
+            "frontMatter": {
+              "slug": "long-blog-post",
+              "title": "Long Blog Post",
+              "authors": "endi",
+              "tags": [
+                "hello",
+                "docusaurus"
+              ]
+            },
+            "prevItem": {
+              "title": "MDX Blog Post",
+              "permalink": "/blog/mdx-blog-post"
+            },
+            "nextItem": {
+              "title": "First Blog Post",
+              "permalink": "/blog/first-blog-post"
+            }
+          },
+          "content": "This is the summary of a very long blog post,\n\nUse a `<!--` `truncate` `-->` comment to limit blog post size in the list view.\n\n<!--truncate-->\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet"
+        },
+        {
+          "id": "first-blog-post",
+          "metadata": {
+            "permalink": "/blog/first-blog-post",
+            "source": "@site/blog/2019-05-28-first-blog-post.md",
+            "title": "First Blog Post",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet",
+            "date": "2019-05-28T00:00:00.000Z",
+            "formattedDate": "May 28, 2019",
+            "tags": [
+              {
+                "label": "hola",
+                "permalink": "/blog/tags/hola"
+              },
+              {
+                "label": "docusaurus",
+                "permalink": "/blog/tags/docusaurus"
+              }
+            ],
+            "readingTime": 0.12,
+            "hasTruncateMarker": false,
+            "authors": [
+              {
+                "name": "Gao Wei",
+                "title": "Docusaurus Core Team",
+                "url": "https://github.com/wgao19",
+                "image_url": "https://github.com/wgao19.png",
+                "imageURL": "https://github.com/wgao19.png"
+              }
+            ],
+            "frontMatter": {
+              "slug": "first-blog-post",
+              "title": "First Blog Post",
+              "authors": {
+                "name": "Gao Wei",
+                "title": "Docusaurus Core Team",
+                "url": "https://github.com/wgao19",
+                "image_url": "https://github.com/wgao19.png",
+                "imageURL": "https://github.com/wgao19.png"
+              },
+              "tags": [
+                "hola",
+                "docusaurus"
+              ]
+            },
+            "prevItem": {
+              "title": "Long Blog Post",
+              "permalink": "/blog/long-blog-post"
+            }
+          },
+          "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet"
+        }
+      ],
+      "blogListPaginated": [
+        {
+          "items": [
+            "welcome",
+            "mdx-blog-post",
+            "long-blog-post",
+            "first-blog-post"
+          ],
+          "metadata": {
+            "permalink": "/blog",
+            "page": 1,
+            "postsPerPage": 10,
+            "totalPages": 1,
+            "totalCount": 4,
+            "blogDescription": "Blog",
+            "blogTitle": "Blog"
+          }
+        }
+      ],
+      "blogTags": {
+        "/blog/tags/facebook": {
+          "label": "facebook",
+          "items": [
+            "welcome"
+          ],
+          "permalink": "/blog/tags/facebook",
+          "pages": [
+            {
+              "items": [
+                "welcome"
+              ],
+              "metadata": {
+                "permalink": "/blog/tags/facebook",
+                "page": 1,
+                "postsPerPage": 10,
+                "totalPages": 1,
+                "totalCount": 1,
+                "blogDescription": "Blog",
+                "blogTitle": "Blog"
+              }
+            }
+          ]
+        },
+        "/blog/tags/hello": {
+          "label": "hello",
+          "items": [
+            "welcome",
+            "long-blog-post"
+          ],
+          "permalink": "/blog/tags/hello",
+          "pages": [
+            {
+              "items": [
+                "welcome",
+                "long-blog-post"
+              ],
+              "metadata": {
+                "permalink": "/blog/tags/hello",
+                "page": 1,
+                "postsPerPage": 10,
+                "totalPages": 1,
+                "totalCount": 2,
+                "blogDescription": "Blog",
+                "blogTitle": "Blog"
+              }
+            }
+          ]
+        },
+        "/blog/tags/docusaurus": {
+          "label": "docusaurus",
+          "items": [
+            "welcome",
+            "mdx-blog-post",
+            "long-blog-post",
+            "first-blog-post"
+          ],
+          "permalink": "/blog/tags/docusaurus",
+          "pages": [
+            {
+              "items": [
+                "welcome",
+                "mdx-blog-post",
+                "long-blog-post",
+                "first-blog-post"
+              ],
+              "metadata": {
+                "permalink": "/blog/tags/docusaurus",
+                "page": 1,
+                "postsPerPage": 10,
+                "totalPages": 1,
+                "totalCount": 4,
+                "blogDescription": "Blog",
+                "blogTitle": "Blog"
+              }
+            }
+          ]
+        },
+        "/blog/tags/hola": {
+          "label": "hola",
+          "items": [
+            "first-blog-post"
+          ],
+          "permalink": "/blog/tags/hola",
+          "pages": [
+            {
+              "items": [
+                "first-blog-post"
+              ],
+              "metadata": {
+                "permalink": "/blog/tags/hola",
+                "page": 1,
+                "postsPerPage": 10,
+                "totalPages": 1,
+                "totalCount": 1,
+                "blogDescription": "Blog",
+                "blogTitle": "Blog"
+              }
+            }
+          ]
+        }
+      },
+      "blogTagsListPath": "/blog/tags"
+    }
+  },
+  "docusaurus-plugin-content-pages": {
+    "default": [
+      {
+        "type": "jsx",
+        "permalink": "/",
+        "source": "@site/src/pages/index.js"
+      },
+      {
+        "type": "mdx",
+        "permalink": "/markdown-page",
+        "source": "@site/src/pages/markdown-page.md",
+        "title": "Markdown page example",
+        "description": "You don't need React to write simple standalone pages.",
+        "frontMatter": {
+          "title": "Markdown page example"
+        }
+      }
+    ]
+  },
+  "docusaurus-plugin-debug": {},
+  "docusaurus-theme-classic": {},
+  "docusaurus-bootstrap-plugin": {},
+  "docusaurus-mdx-fallback-plugin": {}
+}

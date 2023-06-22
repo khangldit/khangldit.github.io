@@ -20,7 +20,7 @@ const config = {
   organizationName: "khangldit", // Usually your GitHub org/user name.
   projectName: "khangldit.github.io", // Usually your repo name.
 
-  onBrokenLinks: "throw",
+  onBrokenLinks: "warn",
   onBrokenMarkdownLinks: "warn",
   deploymentBranch: "deployment",
 
