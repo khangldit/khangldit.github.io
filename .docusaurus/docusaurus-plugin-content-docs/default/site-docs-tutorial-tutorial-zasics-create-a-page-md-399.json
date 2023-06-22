@@ -1,0 +1,26 @@
+{
+  "unversionedId": "Tutorial/tutorial-zasics/create-a-page",
+  "id": "Tutorial/tutorial-zasics/create-a-page",
+  "title": "Create a Page",
+  "description": "Add Markdown or React files to src/pages to create a standalone page:",
+  "source": "@site/docs/Tutorial/tutorial-zasics/create-a-page.md",
+  "sourceDirName": "Tutorial/tutorial-zasics",
+  "slug": "/Tutorial/tutorial-zasics/create-a-page",
+  "permalink": "/docs/Tutorial/tutorial-zasics/create-a-page",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Tutorial - basics",
+    "permalink": "/docs/category/tutorial---basics"
+  },
+  "next": {
+    "title": "Create a Document",
+    "permalink": "/docs/Tutorial/tutorial-zasics/create-a-document"
+  }
+}

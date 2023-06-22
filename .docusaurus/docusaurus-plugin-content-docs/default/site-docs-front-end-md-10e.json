@@ -1,0 +1,22 @@
+{
+  "unversionedId": "front-end",
+  "id": "front-end",
+  "title": "Getting Started",
+  "description": "Let's discover Docusaurus in less than 5 minutes.",
+  "source": "@site/docs/front-end.md",
+  "sourceDirName": ".",
+  "slug": "/front-end",
+  "permalink": "/docs/front-end",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "next": {
+    "title": "Front End",
+    "permalink": "/docs/category/front-end"
+  }
+}

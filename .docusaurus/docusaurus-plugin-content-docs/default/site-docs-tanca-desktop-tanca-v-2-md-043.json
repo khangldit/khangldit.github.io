@@ -1,0 +1,25 @@
+{
+  "unversionedId": "TancaDesktop/tanca-v2",
+  "id": "TancaDesktop/tanca-v2",
+  "title": "Tanca V2",
+  "description": "Hiểu về phần mềm",
+  "source": "@site/docs/TancaDesktop/tanca-v2.md",
+  "sourceDirName": "TancaDesktop",
+  "slug": "/TancaDesktop/tanca-v2",
+  "permalink": "/docs/TancaDesktop/tanca-v2",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Tanca V2"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Tanca V1",
+    "permalink": "/docs/TancaDesktop/tanca-v1"
+  },
+  "next": {
+    "title": "Tutorial Intro",
+    "permalink": "/docs/Tutorial/intro"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "title": "Phần mềm Máy chấm công",
+  "description": "5 minutes to learn the most important Docusaurus concepts.",
+  "slug": "/category/phần-mềm-máy-chấm-công",
+  "permalink": "/docs/category/phần-mềm-máy-chấm-công",
+  "navigation": {
+    "previous": {
+      "title": "setThemColor (no content)",
+      "permalink": "/docs/front-end/web-admin/Functions/setThemeColor"
+    },
+    "next": {
+      "title": "Tanca V1",
+      "permalink": "/docs/TancaDesktop/tanca-v1"
+    }
+  }
+}

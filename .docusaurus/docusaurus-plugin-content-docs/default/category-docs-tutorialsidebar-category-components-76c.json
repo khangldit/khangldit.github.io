@@ -1,0 +1,16 @@
+{
+  "title": "Components",
+  "description": "5 minutes to learn the most important Docusaurus concepts.",
+  "slug": "/category/components",
+  "permalink": "/docs/category/components",
+  "navigation": {
+    "previous": {
+      "title": "Buttons",
+      "permalink": "/docs/front-end/web-admin/buttons"
+    },
+    "next": {
+      "title": "ButtonWidthDropdown",
+      "permalink": "/docs/front-end/web-admin/components/button-with-dropdown"
+    }
+  }
+}

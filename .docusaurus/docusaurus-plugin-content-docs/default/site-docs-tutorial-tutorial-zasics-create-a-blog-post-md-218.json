@@ -1,0 +1,26 @@
+{
+  "unversionedId": "Tutorial/tutorial-zasics/create-a-blog-post",
+  "id": "Tutorial/tutorial-zasics/create-a-blog-post",
+  "title": "Create a Blog Post",
+  "description": "Docusaurus creates a page for each blog post, but also a blog index page, a tag system, an RSS feed...",
+  "source": "@site/docs/Tutorial/tutorial-zasics/create-a-blog-post.md",
+  "sourceDirName": "Tutorial/tutorial-zasics",
+  "slug": "/Tutorial/tutorial-zasics/create-a-blog-post",
+  "permalink": "/docs/Tutorial/tutorial-zasics/create-a-blog-post",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Create a Document",
+    "permalink": "/docs/Tutorial/tutorial-zasics/create-a-document"
+  },
+  "next": {
+    "title": "Markdown Features",
+    "permalink": "/docs/Tutorial/tutorial-zasics/markdown-features"
+  }
+}

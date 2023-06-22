@@ -1,0 +1,25 @@
+{
+  "unversionedId": "TancaDesktop/tanca-v1",
+  "id": "TancaDesktop/tanca-v1",
+  "title": "Tanca V1",
+  "description": "Cơ chế hoạt động",
+  "source": "@site/docs/TancaDesktop/tanca-v1.md",
+  "sourceDirName": "TancaDesktop",
+  "slug": "/TancaDesktop/tanca-v1",
+  "permalink": "/docs/TancaDesktop/tanca-v1",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Tanca V1"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Phần mềm Máy chấm công",
+    "permalink": "/docs/category/phần-mềm-máy-chấm-công"
+  },
+  "next": {
+    "title": "Tanca V2",
+    "permalink": "/docs/TancaDesktop/tanca-v2"
+  }
+}

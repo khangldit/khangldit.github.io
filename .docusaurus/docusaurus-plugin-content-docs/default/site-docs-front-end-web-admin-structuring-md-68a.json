@@ -1,0 +1,26 @@
+{
+  "unversionedId": "front-end/web-admin/structuring",
+  "id": "front-end/web-admin/structuring",
+  "title": "Structuring (NO content)",
+  "description": "Cách tạo 1 component",
+  "source": "@site/docs/front-end/web-admin/structuring.md",
+  "sourceDirName": "front-end/web-admin",
+  "slug": "/front-end/web-admin/structuring",
+  "permalink": "/docs/front-end/web-admin/structuring",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 5,
+  "frontMatter": {
+    "sidebar_position": 5
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Import/Export Excel",
+    "permalink": "/docs/front-end/web-admin/import-export-excel"
+  },
+  "next": {
+    "title": "setThemColor (no content)",
+    "permalink": "/docs/front-end/web-admin/Functions/setThemeColor"
+  }
+}

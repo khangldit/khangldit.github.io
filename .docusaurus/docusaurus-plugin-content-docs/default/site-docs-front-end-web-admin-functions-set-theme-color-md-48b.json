@@ -1,0 +1,26 @@
+{
+  "unversionedId": "front-end/web-admin/Functions/setThemeColor",
+  "id": "front-end/web-admin/Functions/setThemeColor",
+  "title": "setThemColor (no content)",
+  "description": "",
+  "source": "@site/docs/front-end/web-admin/Functions/setThemeColor.md",
+  "sourceDirName": "front-end/web-admin/Functions",
+  "slug": "/front-end/web-admin/Functions/setThemeColor",
+  "permalink": "/docs/front-end/web-admin/Functions/setThemeColor",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Structuring (NO content)",
+    "permalink": "/docs/front-end/web-admin/structuring"
+  },
+  "next": {
+    "title": "Phần mềm Máy chấm công",
+    "permalink": "/docs/category/phần-mềm-máy-chấm-công"
+  }
+}

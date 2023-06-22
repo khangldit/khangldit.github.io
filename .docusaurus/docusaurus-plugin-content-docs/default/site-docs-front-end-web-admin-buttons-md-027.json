@@ -1,0 +1,27 @@
+{
+  "unversionedId": "front-end/web-admin/buttons",
+  "id": "front-end/web-admin/buttons",
+  "title": "Buttons",
+  "description": "Một số quy tắc khi sử dụng button trên Tanca Admin",
+  "source": "@site/docs/front-end/web-admin/buttons.md",
+  "sourceDirName": "front-end/web-admin",
+  "slug": "/front-end/web-admin/buttons",
+  "permalink": "/docs/front-end/web-admin/buttons",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3,
+    "output": "html_document"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Them Color",
+    "permalink": "/docs/front-end/web-admin/them-color"
+  },
+  "next": {
+    "title": "Components",
+    "permalink": "/docs/category/components"
+  }
+}

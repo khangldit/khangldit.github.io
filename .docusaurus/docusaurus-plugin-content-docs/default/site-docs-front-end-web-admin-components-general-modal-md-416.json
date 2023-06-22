@@ -1,0 +1,26 @@
+{
+  "unversionedId": "front-end/web-admin/components/general-modal",
+  "id": "front-end/web-admin/components/general-modal",
+  "title": "GeneralModal",
+  "description": "Tiêu chuẩn chung của một modal áp dụng cho tất cả các modal trong trang web.",
+  "source": "@site/docs/front-end/web-admin/components/general-modal.md",
+  "sourceDirName": "front-end/web-admin/components",
+  "slug": "/front-end/web-admin/components/general-modal",
+  "permalink": "/docs/front-end/web-admin/components/general-modal",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "FilterWidet (NO content)",
+    "permalink": "/docs/front-end/web-admin/components/filter-widget"
+  },
+  "next": {
+    "title": "GeneralMultigrid (NO content)",
+    "permalink": "/docs/front-end/web-admin/components/general-multigrid"
+  }
+}

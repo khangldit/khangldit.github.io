@@ -1,0 +1,280 @@
+{
+  "/blog-655": {
+    "__comp": "a6aa9e1f",
+    "__context": {
+      "plugin": "b866259b"
+    },
+    "sidebar": "814f3328",
+    "items": [
+      {
+        "content": "7661071f"
+      },
+      {
+        "content": "f4f34a3a"
+      },
+      {
+        "content": "8717b14a"
+      },
+      {
+        "content": "925b3f96"
+      }
+    ],
+    "metadata": "b2b675dd"
+  },
+  "/blog/archive-755": {
+    "__comp": "9e4087bc",
+    "__context": {
+      "plugin": "b866259b"
+    },
+    "archive": "b2f554cd"
+  },
+  "/blog/first-blog-post-3a3": {
+    "__comp": "ccc49370",
+    "__context": {
+      "plugin": "b866259b"
+    },
+    "sidebar": "814f3328",
+    "content": "e273c56f"
+  },
+  "/blog/long-blog-post-ca6": {
+    "__comp": "ccc49370",
+    "__context": {
+      "plugin": "b866259b"
+    },
+    "sidebar": "814f3328",
+    "content": "73664a40"
+  },
+  "/blog/mdx-blog-post-163": {
+    "__comp": "ccc49370",
+    "__context": {
+      "plugin": "b866259b"
+    },
+    "sidebar": "814f3328",
+    "content": "59362658"
+  },
+  "/blog/tags-522": {
+    "__comp": "01a85c17",
+    "__context": {
+      "plugin": "b866259b"
+    },
+    "sidebar": "814f3328",
+    "tags": "a7023ddc"
+  },
+  "/blog/tags/docusaurus-130": {
+    "__comp": "6875c492",
+    "__context": {
+      "plugin": "b866259b"
+    },
+    "sidebar": "814f3328",
+    "items": [
+      {
+        "content": "7661071f"
+      },
+      {
+        "content": "f4f34a3a"
+      },
+      {
+        "content": "8717b14a"
+      },
+      {
+        "content": "925b3f96"
+      }
+    ],
+    "tag": "a80da1cf",
+    "listMetadata": "608ae6a4"
+  },
+  "/blog/tags/facebook-5e8": {
+    "__comp": "6875c492",
+    "__context": {
+      "plugin": "b866259b"
+    },
+    "sidebar": "814f3328",
+    "items": [
+      {
+        "content": "7661071f"
+      }
+    ],
+    "tag": "031793e1",
+    "listMetadata": "096bfee4"
+  },
+  "/blog/tags/hello-0d5": {
+    "__comp": "6875c492",
+    "__context": {
+      "plugin": "b866259b"
+    },
+    "sidebar": "814f3328",
+    "items": [
+      {
+        "content": "7661071f"
+      },
+      {
+        "content": "8717b14a"
+      }
+    ],
+    "tag": "30a24c52",
+    "listMetadata": "66406991"
+  },
+  "/blog/tags/hola-fab": {
+    "__comp": "6875c492",
+    "__context": {
+      "plugin": "b866259b"
+    },
+    "sidebar": "814f3328",
+    "items": [
+      {
+        "content": "925b3f96"
+      }
+    ],
+    "tag": "e16015ca",
+    "listMetadata": "4c9e35b1"
+  },
+  "/blog/welcome-1fe": {
+    "__comp": "ccc49370",
+    "__context": {
+      "plugin": "b866259b"
+    },
+    "sidebar": "814f3328",
+    "content": "d9f32620"
+  },
+  "/markdown-page-198": {
+    "__comp": "1f391b9e",
+    "__context": {
+      "plugin": "234ba06c"
+    },
+    "content": "393be207"
+  },
+  "/docs-1d3": {
+    "__comp": "1be78505",
+    "__context": {
+      "plugin": "0722a8e9"
+    },
+    "versionMetadata": "935f2afb"
+  },
+  "/docs/category/components-577": {
+    "__comp": "14eb3368",
+    "categoryGeneratedIndex": "64566cc6"
+  },
+  "/docs/category/front-end-e21": {
+    "__comp": "14eb3368",
+    "categoryGeneratedIndex": "f3ee2bbb"
+  },
+  "/docs/category/phần-mềm-máy-chấm-công-6d4": {
+    "__comp": "14eb3368",
+    "categoryGeneratedIndex": "8c7be27a"
+  },
+  "/docs/category/tutorial---basics-d44": {
+    "__comp": "14eb3368",
+    "categoryGeneratedIndex": "ea88f2a1"
+  },
+  "/docs/category/tutorial---extras-f09": {
+    "__comp": "14eb3368",
+    "categoryGeneratedIndex": "c844b82d"
+  },
+  "/docs/category/web-admin-6f2": {
+    "__comp": "14eb3368",
+    "categoryGeneratedIndex": "93992628"
+  },
+  "/docs/front-end-6b0": {
+    "__comp": "17896441",
+    "content": "10ed0ca2"
+  },
+  "/docs/front-end/web-admin/buttons-9d9": {
+    "__comp": "17896441",
+    "content": "027b3cea"
+  },
+  "/docs/front-end/web-admin/components/button-with-dropdown-ec6": {
+    "__comp": "17896441",
+    "content": "5d746820"
+  },
+  "/docs/front-end/web-admin/components/custom-input-item-c10": {
+    "__comp": "17896441",
+    "content": "a134cae8"
+  },
+  "/docs/front-end/web-admin/components/filter-widget-7b4": {
+    "__comp": "17896441",
+    "content": "f911eeb9"
+  },
+  "/docs/front-end/web-admin/components/general-modal-b75": {
+    "__comp": "17896441",
+    "content": "4168e934"
+  },
+  "/docs/front-end/web-admin/components/general-multigrid-8ac": {
+    "__comp": "17896441",
+    "content": "ca6bf385"
+  },
+  "/docs/front-end/web-admin/conponent-generation-133": {
+    "__comp": "17896441",
+    "content": "dc610bdf"
+  },
+  "/docs/front-end/web-admin/Functions/setThemeColor-c94": {
+    "__comp": "17896441",
+    "content": "48b96c5c"
+  },
+  "/docs/front-end/web-admin/import-export-excel-5c3": {
+    "__comp": "17896441",
+    "content": "ece3c5ba"
+  },
+  "/docs/front-end/web-admin/Layout/-1aa": {
+    "__comp": "17896441",
+    "content": "5c01d8d9"
+  },
+  "/docs/front-end/web-admin/structuring-e27": {
+    "__comp": "17896441",
+    "content": "68a3a4b2"
+  },
+  "/docs/front-end/web-admin/them-color-be1": {
+    "__comp": "17896441",
+    "content": "72a9b7fa"
+  },
+  "/docs/TancaDesktop/tanca-v1-e89": {
+    "__comp": "17896441",
+    "content": "e79ab0ac"
+  },
+  "/docs/TancaDesktop/tanca-v2-c5d": {
+    "__comp": "17896441",
+    "content": "0435d746"
+  },
+  "/docs/Tutorial/intro-039": {
+    "__comp": "17896441",
+    "content": "d16fade1"
+  },
+  "/docs/Tutorial/tutorial-extras/manage-docs-versions-bba": {
+    "__comp": "17896441",
+    "content": "57a2c5f8"
+  },
+  "/docs/Tutorial/tutorial-extras/translate-your-site-822": {
+    "__comp": "17896441",
+    "content": "786ce52d"
+  },
+  "/docs/Tutorial/tutorial-zasics/congratulations-389": {
+    "__comp": "17896441",
+    "content": "9421bf73"
+  },
+  "/docs/Tutorial/tutorial-zasics/create-a-blog-post-f7e": {
+    "__comp": "17896441",
+    "content": "218d457c"
+  },
+  "/docs/Tutorial/tutorial-zasics/create-a-document-c54": {
+    "__comp": "17896441",
+    "content": "cf929b63"
+  },
+  "/docs/Tutorial/tutorial-zasics/create-a-page-52e": {
+    "__comp": "17896441",
+    "content": "39951233"
+  },
+  "/docs/Tutorial/tutorial-zasics/deploy-your-site-e5c": {
+    "__comp": "17896441",
+    "content": "d7fd1c16"
+  },
+  "/docs/Tutorial/tutorial-zasics/markdown-features-e2c": {
+    "__comp": "17896441",
+    "content": "381c6bb5"
+  },
+  "/-3e6": {
+    "__comp": "c4f5d8e4",
+    "__context": {
+      "plugin": "234ba06c"
+    },
+    "config": "5e9f5e1a"
+  }
+}
