@@ -10,7 +10,7 @@ const config = {
   tagline: "",
   favicon: "img/favicon.ico",
   // Set the production url of your site here
-  url: "https://tancadocs.github.io",
+  url: "https://tanca-io.github.io",
   baseUrl: "/",
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
@@ -18,7 +18,7 @@ const config = {
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
   organizationName: "tanca-io", // Usually your GitHub org/user name.
-  projectName: "tancadocs.github.io", // Usually your repo name.
+  projectName: "tanca-io.github.io", // Usually your repo name.
 
   onBrokenLinks: "throw",
   onBrokenMarkdownLinks: "warn",

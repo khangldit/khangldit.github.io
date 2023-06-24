@@ -8,7 +8,7 @@ Let's discover **Docusaurus in less than 5 minutes**.
 
 ### What you'll need
 
-- [Node.js](https://nodejs.org/en/download/) version >= 16 :
+- [Node.js](https://nodejs.org/en/download/) version = 14.17.0 :
   - When installing Node.js, you are recommended to check all checkboxes related to dependencies.
 
 ## Install packages
@@ -45,7 +45,7 @@ The `cd tanca-admin` command changes the directory you're working with. If you a
 Run the development server:
 
 ```bash
-npm run start
+npm start
 ```
 
 or
