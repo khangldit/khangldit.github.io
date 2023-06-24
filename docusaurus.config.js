@@ -10,15 +10,15 @@ const config = {
   tagline: "",
   favicon: "img/favicon.ico",
   // Set the production url of your site here
-  url: "https://khangldit.github.io",
+  url: "https://tancadocs.github.io",
   baseUrl: "/",
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: "khangldit", // Usually your GitHub org/user name.
-  projectName: "khangldit.github.io", // Usually your repo name.
+  organizationName: "tanca-io", // Usually your GitHub org/user name.
+  projectName: "tancadocs.github.io", // Usually your repo name.
 
   onBrokenLinks: "throw",
   onBrokenMarkdownLinks: "warn",
